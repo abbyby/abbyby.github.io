@@ -1,19 +1,19 @@
 # Site settings
 title: Luox Blog
 SEOTitle: 罗熙的博客 | Luox Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg-art.jpg
 email: luox@lesaas.com
 description: "关于银行业务分析／产品经理| 罗熙 & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @luox罗熙 的个人博客，与你一起发现更大的世界。"
 keyword: "罗熙, 产品, 博客, 个人网站, 互联网,  设计, 产品"
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "https://abbyby.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     luoxi
-zhihu_username:     luoxi
+weibo_username:     luoxi_xi
+zhihu_username:     七天
 github_username:    abbyby
 #twitter_username:  luoxi
 facebook_username:  luoxi
